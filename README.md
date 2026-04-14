@@ -39,10 +39,13 @@ I am learning how to use JS objects to store complex/related data
         email: document.getElementById("email").value
     }
     ```
-- **Option 2:** Start with an empty object and create keys along the way
+- **Option 2:** Start with an existing object and create keys along the way
     ```javascript
     let person = {}; // Create empty object
     person.name = document.getElementById("name").value; // Create the name key
     person.age = document.getElementById("age").value; // Create the age key
     person.email = document.getElementById("email").value; // Create the email key
     ```
+
+# Example and Exercises
+Complete all the tasks label as ```// TODO: ...``` in the comments in ```script.js```

@@ -1,6 +1,6 @@
 console.log("Script started")
 
-// TODO: Test working with object here
+// TODO: Test working with objects here
 
 
 
@@ -8,7 +8,7 @@ function processForm() {
     console.log("click");
     // TODO: prevent this function from reloading the page when the form is submitted
 
-    // TODO: Create a newUser object that has all the user's info
+    // TODO: Create a newUser object that has all the user's info from the form
 
     // TODO: Call the addUser function and pass the newUser object as a parameter
 }
